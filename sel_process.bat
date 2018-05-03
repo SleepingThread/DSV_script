@@ -1,0 +1,1 @@
+"C:\Program Files\BIOVIA\Discovery Studio 2017R2\bin\perl.bat" create_surfaces.pl %*
